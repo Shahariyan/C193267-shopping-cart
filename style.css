@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.navbar>.container-fluid .navbar-brand,.h1,.h2,.h3,.h4 {
+    font-family: 'Lobster', cursive;
+}
+.navbar {
+    border-radius: 0;
+}
+#service{
+    padding-top: 80px;
+}
